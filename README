@@ -1,0 +1,33 @@
+/*
+  Serial parse
+  
+  Demonstrates the use of the inbiult function, Serial.parseInt()
+  
+  As an example, two values seperated by a comma can be sent serially that gets 
+  assigned to two different variable. These two variables will affect the ON and
+  OFF time (in ms) delay of the blinking LED. If only one value is sent, then it 
+  will get assiged to only first variable without affecting the second one. 
+  
+  This logic can be exteded to parse more than two values.  
+
+
+  
+  Connections:
+
+  Uses the on-board LED connected to pin 13.
+
+
+  -------------------------------------------------------------------------------
+  
+  This example code is in the public domain.
+
+  modified 24 Mar 2017
+  by Manoj Sharma
+  
+  imanoj_sharma@yahoo.com
+  
+  https://twitter.com/irahulone
+
+  -------------------------------------------------------------------------------
+ 
+*/
