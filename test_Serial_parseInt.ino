@@ -26,7 +26,7 @@
   
   imanoj_sharma@yahoo.com
   
-  https://twitter.com/irahulone
+  @irahulone
 
   -------------------------------------------------------------------------------
  
